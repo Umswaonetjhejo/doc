@@ -1,4 +1,4 @@
-_#PROPOSAL_
+#_PROPOSAL_
 
 _##Defining the project scope_
 
