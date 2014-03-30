@@ -1,6 +1,6 @@
 #_PROPOSAL_
 
-_##Defining the project scope_
+##_Defining the project scope_
 
 	This system will sell building materials. It will 
 	allow customers to do thier shopping online. The
@@ -36,11 +36,11 @@ _##Defining the project scope_
 	This project will completed in 40 days. So, the 
 	system will be delivered on the 8th May 2014.
 	
-_##Estimated costs_ 
+##_Estimated costs_ 
 	
 	The cost is  R30000.
 	
-	_###The Website will have:_
+	## _The Website will have:_
 	
 		+Branding or a logo
 		+Content and image sliders
@@ -59,7 +59,7 @@ _##Estimated costs_
 		+Social media integration
 		+Blog
 
-	_###The Website will not have:_
+	##_The Website will not have:_
 	
 		Photography and video
 		custom coding or functionality
